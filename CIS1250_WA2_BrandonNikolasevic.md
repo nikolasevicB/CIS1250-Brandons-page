@@ -6,7 +6,8 @@ CIS1250-Brandons-page
 
 https://github.com/nikolasevicB/CIS12500-Brandons-page
 
-  The requirements and gathering stage may be the most important stage in the development process of a software. This is because this is the stage where developers have the 
+
+   The requirements and gathering stage may be the most important stage in the development process of a software. This is because this is the stage where developers have the 
 most interaction with the stakeholders. The goal of the requirements and gathering stage is to lay out all the requirements of the stakeholders making sure that the 
 finished product accomplishes these requirements effectively. These crucial details lay the foundation for the rest of the software design process as the remaining stages of
 design, implementing, verification and maintaining the software all serve to fulfill these requirements for the stakeholders. Without the requirements and gathering stage, 
