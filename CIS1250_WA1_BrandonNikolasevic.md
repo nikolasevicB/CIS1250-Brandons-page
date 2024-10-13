@@ -1,7 +1,11 @@
 Brandon Nikolasevic 
-1342990 
-CIS1250-Brandons-page 
+
+1342990
+
+CIS1250-Brandons-page
+
 https://github.com/nikolasevicB/CIS12500-Brandons-page
+
 
                                                         The Notes App
   A software that I use on a daily basis is the notes app on iPhone. This app is well designed for several reasons. The first reason is the problem that It solves. 
