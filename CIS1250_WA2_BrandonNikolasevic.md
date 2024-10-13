@@ -1,6 +1,9 @@
 Brandon Nikolasevic 
-1342990 
+
+1342990
+
 CIS1250-Brandons-page 
+
 https://github.com/nikolasevicB/CIS12500-Brandons-page
 
   The requirements and gathering stage may be the most important stage in the development process of a software. This is because this is the stage where developers have the 
