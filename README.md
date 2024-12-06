@@ -2,7 +2,9 @@
 test repository for CIS1250
 
 
+    Writing Assignment 3
 
+![download](https://github.com/user-attachments/assets/027bcc3f-ebb1-491e-8d16-1b77829f3f23)
 
 
     Writing Assignment 4
